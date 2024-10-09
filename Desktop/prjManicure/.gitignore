@@ -1,0 +1,34 @@
+# Ignorar arquivos e diretórios do sistema
+/Ambiente de Impressão/
+/Ambiente de Rede/
+/Configurações Locais/
+/Cookies/
+/Dados de Aplicativos/
+/Menu Iniciar/
+/Meus Documentos/
+/Modelos/
+/Recent/
+/SendTo/
+/Desktop.ini
+/NTUSER.DAT*
+/AppData/
+/OneDrive/
+/Documents/
+/Downloads/
+/Pictures/
+/Saved Games/
+/Videos/
+/Favorites/
+
+# Ignorar binários e dependências locais
+*.exe
+*.dll
+*.lnk
+*.db
+.gradle/
+.vscode/
+.cache/
+.config/
+.m2/
+.android/
+.totvsls/
