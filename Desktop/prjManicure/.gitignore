@@ -1,0 +1,17 @@
+# Ignorar arquivos do sistema e configuração
+.android/
+.gradle/
+.vscode/
+.gitconfig
+.cache/
+.config/
+.m2/
+.ssh/
+AppData/
+Documents/
+Downloads/
+NTUSER.DAT*
+*.lnk
+*.exe
+*.txt
+*.db
