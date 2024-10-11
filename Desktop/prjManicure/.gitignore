@@ -1,20 +1,17 @@
-# Arquivos de compilação
-*.class
-
-# Diretórios de build
-/build/
-bin/
-
-# Dependências
-/lib/
-*.jar
-
-# Configurações do IDE
-.idea/
-*.iml
+# Ignorar arquivos do sistema e configuração
+.android/
+.gradle/
 .vscode/
-
-# Outros
-*.log
-*.tmp
-*.bak
+.gitconfig
+.cache/
+.config/
+.m2/
+.ssh/
+AppData/
+Documents/
+Downloads/
+NTUSER.DAT*
+*.lnk
+*.exe
+*.txt
+*.db
